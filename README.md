@@ -6,7 +6,7 @@ This repository contains my code examples to create various simulation environme
   https://simpy.readthedocs.io/en/latest/
 
 # Examples:
-1. Distribution Center `src/distribution_center`
+1. Distribution Center `src/distribution_center` [Distribution Center](https://github.com/thakur-ro/SimPy-demo-examples/tree/main/src/distribution_center)
 ## local env setup
 ```bash
 conda create -n simpy_env python=3.10.12
