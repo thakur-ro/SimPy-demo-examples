@@ -1,0 +1,17 @@
+kedro==0.19.1
+dbx==0.8.18
+pandas~=2.1.2
+ipykernel~=6.26.0
+simpy~=4.1.0
+pytest~=7.4.3
+pytest-cov~=4.1.0
+pre-commit~=3.6.0
+adlfs~=2023.10.0
+kedro-datasets[spark]
+kedro-viz~= 6.6.1
+black~=23.11.0
+flake8~=6.1.0
+isort~=5.12.0
+streamlit~=1.28.2
+nbformat~=5.9.2
+distfit~=1.7.1
