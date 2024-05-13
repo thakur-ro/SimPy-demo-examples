@@ -5,6 +5,8 @@ This repository contains my code examples to create various simulation environme
   help you build simulation environments of real world systems and processes.
   https://simpy.readthedocs.io/en/latest/
 
+# Examples:
+1. Distribution Center `src/distribution_center`
 ## local env setup
 ```bash
 conda create -n simpy_env python=3.10.12
